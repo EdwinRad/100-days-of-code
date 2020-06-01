@@ -1,30 +1,46 @@
 # 100 Days Of Code - Log
+## Project: AWS-CDK CLI for quick bootstrapping a new application
+# Feature description
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+As a user I want to be able to use a CLI tool to easily bootstrap a new AWS-CDK project in Typescript.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+The core feature is that instead of installing every model standalone with:
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+```bash
+$ npm install @aws-cdk/aws-s3@1.41.1
+```
 
-**Link to work:** [Calculator App](http://www.example.com)
+I want to be able to do this in a multi step CLI like:
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+```bash
+$ What language: Typescript
+$ What dependencies would you like?: s3,iam,ec2,lambda
+$ What version would you like?(default latest): 1.38.0
+```
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+Should result in:
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+```bash
+$ npm install @aws-cdk/aws-s3@1.38.0, aws-cdk/aws-iam@1.38.0, 
+aws-cdk/aws-ec2@1.38.0, aws-cdk/aws-lambda@1.38.0
+```
+## Stretch goal
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+When the above CLI works I want to add a functionality that will write all imported dependencies from the previous step into the stack.ts:
+
+```tsx
+import * as cdk from '@aws-cdk/core';
+import * as s3 from '@aws-cdk/aws-s3';
+import * as ec2 from '@aws-cdk/aws-ec2';
+import * as iam from '@aws-cdk/aws-iam';
+import * as lambda from '@aws-cdk/aws-lambda';
+```
+
+### Day 1: February 01, 2020
 
 
-### Day 1: June 27, Monday
+**Today's Progress**: Created demo CLI with oclif.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:** dive into nodejs child process to run the commands.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [DemoCLI](https://github.com/EdwinRad/cdkcli/tree/master/democli/mynewcli)
