@@ -4,7 +4,7 @@
 
 As a user I want to be able to use a CLI tool to easily bootstrap a new AWS-CDK project in Typescript.
 
-The core feature is that instead of installing every model standalone with:
+The core feature is that instead of installing every package standalone with:
 
 ```bash
 $ npm install @aws-cdk/aws-s3@1.41.1
