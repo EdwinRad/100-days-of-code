@@ -14,8 +14,8 @@ I want to be able to do this in a multi step CLI like:
 
 ```bash
 $ What language: Typescript
-$ What dependencies would you like?: s3,iam,ec2,lambda
 $ What version would you like?(default latest): 1.38.0
+$ What dependencies would you like?: s3,iam,ec2,lambda
 ```
 
 Should result in:
@@ -36,11 +36,21 @@ import * as iam from '@aws-cdk/aws-iam';
 import * as lambda from '@aws-cdk/aws-lambda';
 ```
 
-### Day 1: February 01, 2020
+### Day 1: June 01, 2020
 
 
 **Today's Progress**: Created demo CLI with oclif.
 
 **Thoughts:** dive into nodejs child process to run the commands.
+
+**Link to work:** [DemoCLI](https://github.com/EdwinRad/cdkcli/tree/master/democli/mynewcli)
+
+
+### Day 2: June 02, 2020
+
+
+**Today's Progress**: CLI creates installs the CDK in your specified version and creates an empty project.
+
+**Thoughts:** Really good progress. Also found inquirer-autocomplete-prompt Autocomplete prompt for the CLI need to implement this for the dependencies.
 
 **Link to work:** [DemoCLI](https://github.com/EdwinRad/cdkcli/tree/master/democli/mynewcli)
