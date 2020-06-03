@@ -54,3 +54,13 @@ import * as lambda from '@aws-cdk/aws-lambda';
 **Thoughts:** Really good progress. Also found inquirer-autocomplete-prompt Autocomplete prompt for the CLI need to implement this for the dependencies.
 
 **Link to work:** [DemoCLI](https://github.com/EdwinRad/cdkcli/tree/master/democli/mynewcli)
+
+
+### Day 3: June 03, 2020
+
+
+**Today's Progress**: Added 'Choose aws-cdk packages to install' to the CLI. 
+
+**Thoughts:** Install latest works, now I need to get the for loop working to install a specific version. See check.ts for code in link below.
+
+**Link to work:** [DemoCLI](https://github.com/EdwinRad/cdkcli/tree/master/democli/mynewcli)
