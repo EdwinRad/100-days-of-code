@@ -64,3 +64,13 @@ import * as lambda from '@aws-cdk/aws-lambda';
 **Thoughts:** Install latest works, now I need to get the for loop working to install a specific version. See check.ts for code in link below.
 
 **Link to work:** [DemoCLI](https://github.com/EdwinRad/cdkcli/tree/master/democli/mynewcli)
+
+
+### Day 4: June 04, 2020
+
+
+**Today's Progress**: CLI now lets you choose a specific package version + combined all steps. 
+
+**Thoughts:** Great progress, took some time to get the for loop working. See init.ts for code in link below.
+
+**Link to work:** [DemoCLI](https://github.com/EdwinRad/cdkcli/tree/master/democli/mynewcli)
