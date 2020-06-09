@@ -74,3 +74,13 @@ import * as lambda from '@aws-cdk/aws-lambda';
 **Thoughts:** Great progress, took some time to get the for loop working. See init.ts for code in link below.
 
 **Link to work:** [DemoCLI](https://github.com/EdwinRad/cdkcli/tree/master/democli/mynewcli)
+
+
+### Day 5: June 09, 2020
+
+
+**Today's Progress**: Added spinner, checkboxes and created new RocketCDK repo 
+
+**Thoughts:** Pretty awesome to see all components come together. The name for the package is now RocketCDK
+
+**Link to work:** [DemoCLI](https://github.com/EdwinRad/cdkcli/tree/master/democli/rocketcdk)
