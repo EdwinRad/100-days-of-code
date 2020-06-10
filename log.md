@@ -84,3 +84,12 @@ import * as lambda from '@aws-cdk/aws-lambda';
 **Thoughts:** Pretty awesome to see all components come together. The name for the package is now RocketCDK
 
 **Link to work:** [DemoCLI](https://github.com/EdwinRad/cdkcli/tree/master/democli/rocketcdk)
+
+### Day 6: June 10, 2020
+
+
+**Today's Progress**: Added import to stack.ts writing the packages 
+
+**Thoughts:** Great progress today.
+
+**Link to work:** [DemoCLI](https://github.com/EdwinRad/cdkcli/tree/master/democli/rocketcdk)
