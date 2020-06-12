@@ -93,3 +93,20 @@ import * as lambda from '@aws-cdk/aws-lambda';
 **Thoughts:** Great progress today.
 
 **Link to work:** [DemoCLI](https://github.com/EdwinRad/cdkcli/tree/master/democli/rocketcdk)
+
+### Day 7: June 11, 2020
+
+
+**Today's Progress**: Published to NPM!
+
+https://www.npmjs.com/package/rocketcdk
+
+**Link to work:** [DemoCLI](https://github.com/EdwinRad/rocketcdk)
+### Day 8: June 12, 2020
+
+
+**Today's Progress**: live bug fixes and writing to  file
+
+**Thoughts:** Great progress today.
+
+**Link to work:** [DemoCLI](https://github.com/EdwinRad/cdkcli/tree/master/democli/rocketcdk)
