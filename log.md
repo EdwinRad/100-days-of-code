@@ -102,6 +102,7 @@ import * as lambda from '@aws-cdk/aws-lambda';
 https://www.npmjs.com/package/rocketcdk
 
 **Link to work:** [DemoCLI](https://github.com/EdwinRad/rocketcdk)
+
 ### Day 8: June 12, 2020
 
 
@@ -110,3 +111,12 @@ https://www.npmjs.com/package/rocketcdk
 **Thoughts:** Great progress today.
 
 **Link to work:** [DemoCLI](https://github.com/EdwinRad/cdkcli/tree/master/democli/rocketcdk)
+
+### Day 9: June 15, 2020
+
+
+**Today's Progress**: added error handling & wrote the readme
+
+
+**Link to work:** [RocketCDK npm package](https://www.npmjs.com/package/rocketcdk)
+
