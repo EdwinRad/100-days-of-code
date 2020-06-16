@@ -120,3 +120,11 @@ https://www.npmjs.com/package/rocketcdk
 
 **Link to work:** [RocketCDK npm package](https://www.npmjs.com/package/rocketcdk)
 
+### Day 10: June 16, 2020
+
+
+**Today's Progress**: worked on website and test deployed with vercel.com
+
+
+**Link to work:** [RocketCDK npm package](https://www.npmjs.com/package/rocketcdk)
+
