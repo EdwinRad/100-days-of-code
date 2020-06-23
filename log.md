@@ -128,3 +128,11 @@ https://www.npmjs.com/package/rocketcdk
 
 **Link to work:** [RocketCDK npm package](https://www.npmjs.com/package/rocketcdk)
 
+### Day 11: June 23, 2020
+
+
+**Today's Progress**: added update command to rocketcdk
+
+
+**Link to work:** [RocketCDK npm package](https://www.npmjs.com/package/rocketcdk)
+
