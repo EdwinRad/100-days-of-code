@@ -135,4 +135,11 @@ https://www.npmjs.com/package/rocketcdk
 
 
 **Link to work:** [RocketCDK npm package](https://www.npmjs.com/package/rocketcdk)
+### Day 12: June 24, 2020
+
+
+**Today's Progress**: worked on errorhandling
+
+
+**Link to work:** [RocketCDK npm package](https://www.npmjs.com/package/rocketcdk)
 
