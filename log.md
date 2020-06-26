@@ -143,3 +143,10 @@ https://www.npmjs.com/package/rocketcdk
 
 **Link to work:** [RocketCDK npm package](https://www.npmjs.com/package/rocketcdk)
 
+### Day 13: June 26, 2020
+
+
+**Today's Progress**: corrected error where non empty repo would fail
+
+
+**Link to work:** [RocketCDK npm package](https://www.npmjs.com/package/rocketcdk)
