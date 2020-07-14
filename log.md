@@ -158,3 +158,11 @@ https://www.npmjs.com/package/rocketcdk
 
 
 **Link to work:** [RocketCDK npm package](https://www.npmjs.com/package/rocketcdk)
+
+### Day 15: July 14, 2020
+
+
+**Today's Progress**: Awesome progress, created the python update model. Better progress then expected.
+
+
+**Link to work:** [RocketCDK npm package](https://www.npmjs.com/package/rocketcdk)
