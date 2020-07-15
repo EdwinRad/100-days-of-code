@@ -166,3 +166,11 @@ https://www.npmjs.com/package/rocketcdk
 
 
 **Link to work:** [RocketCDK npm package](https://www.npmjs.com/package/rocketcdk)
+
+### Day 16: July 15, 2020
+
+
+**Today's Progress**: Today I dived into contributing to the AWS CDK. Found a small issue that I want to try and pick up.
+
+
+**Link to work:** 
