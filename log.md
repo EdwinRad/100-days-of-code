@@ -174,3 +174,11 @@ https://www.npmjs.com/package/rocketcdk
 
 
 **Link to work:** 
+
+### Day 17: July 16, 2020
+
+
+**Today's Progress**: Added flags to the demoCLI to later add to rocketcdk for using it in pipelines.
+
+
+**Link to work:** [RocketCDK npm package](https://www.npmjs.com/package/rocketcdk)
