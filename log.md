@@ -182,10 +182,20 @@ https://www.npmjs.com/package/rocketcdk
 
 
 **Link to work:** [RocketCDK npm package](https://www.npmjs.com/package/rocketcdk)
+
 ### Day 18: July 21, 2020
 
 
 **Today's Progress**: minor upgrades
+
+
+**Link to work:** [RocketCDK npm package](https://www.npmjs.com/package/rocketcdk)
+
+
+### Day 19: July 22, 2020
+
+
+**Today's Progress**: published version 0.1.2 and added the up command
 
 
 **Link to work:** [RocketCDK npm package](https://www.npmjs.com/package/rocketcdk)
