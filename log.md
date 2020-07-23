@@ -199,3 +199,11 @@ https://www.npmjs.com/package/rocketcdk
 
 
 **Link to work:** [RocketCDK npm package](https://www.npmjs.com/package/rocketcdk)
+
+### Day 20: July 22, 2020
+
+
+**Today's Progress**: Issues with the rocketcdk and python package on ec2 
+
+
+**Link to work:** [RocketCDK npm package](https://www.npmjs.com/package/rocketcdk)
