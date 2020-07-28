@@ -215,3 +215,11 @@ https://www.npmjs.com/package/rocketcdk
 
 
 **Link to work:** [RocketCDK npm package](https://www.npmjs.com/package/rocketcdk)
+
+### Day 22: July 28, 2020
+
+
+**Today's Progress**: Worked on my gatsby deployment. Used vercel for the deployment.
+
+
+**Link to work:** [RocketCDK npm package](https://www.npmjs.com/package/rocketcdk)
