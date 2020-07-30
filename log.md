@@ -223,3 +223,18 @@ https://www.npmjs.com/package/rocketcdk
 
 
 **Link to work:** [RocketCDK npm package](https://www.npmjs.com/package/rocketcdk)
+
+### Day 23: July 29, 2020
+
+
+**Today's Progress**: Wrote tutorial on this errror in cdk
+
+
+**Link to work:** [RocketCDK npm package](https://www.npmjs.com/package/rocketcdk)
+### Day 24: July 30, 2020
+
+
+**Today's Progress**: Wrote tutorial on RDS option group in cDK
+
+
+**Link to work:** [RocketCDK npm package](https://www.npmjs.com/package/rocketcdk)
