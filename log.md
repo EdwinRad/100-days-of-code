@@ -227,14 +227,22 @@ https://www.npmjs.com/package/rocketcdk
 ### Day 23: July 29, 2020
 
 
-**Today's Progress**: Wrote tutorial on this errror in cdk
+**Today's Progress**: Wrote tutorial on this errror in CDK
 
 
 **Link to work:** [RocketCDK npm package](https://www.npmjs.com/package/rocketcdk)
 ### Day 24: July 30, 2020
 
 
-**Today's Progress**: Wrote tutorial on RDS option group in cDK
+**Today's Progress**: Wrote tutorial on RDS option group in CDK
+
+
+**Link to work:** [RocketCDK npm package](https://www.npmjs.com/package/rocketcdk)
+
+### Day 25: July 30, 2020
+
+
+**Today's Progress**: Removed init command, deleted unused npm packages, bumped lodash for security update and rewritten the docs. Published 0.1.5 of RocketCDK
 
 
 **Link to work:** [RocketCDK npm package](https://www.npmjs.com/package/rocketcdk)
